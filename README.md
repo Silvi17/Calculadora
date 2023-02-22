@@ -1,2 +1,2 @@
 # Calculadora
-![calculadora](https://user-images.githubusercontent.com/107277624/217724838-bc8fd190-93d7-4c15-aa2a-7302c082bbab.jpg)
+![calculadora](https://user-images.githubusercontent.com/107277624/220490932-14c6f8c8-5379-45c4-9b68-b54314baa1b4.jpg)
